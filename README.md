@@ -1,7 +1,7 @@
 
 ## Concept bir Next Js çalışmasıdır.
 
-CANLI: [LINK](https://furkancakici.github.io/concept-app-reactjs/)
+CANLI: [LINK](https://nextjs-concept-app.vercel.app/)
 
 ### Neler kullandım / öğrendim 
 
@@ -10,4 +10,6 @@ CANLI: [LINK](https://furkancakici.github.io/concept-app-reactjs/)
 - Styled Components
 - SVGR
 - AOS Js
+
+[Kaynak](https://www.youtube.com/watch?v=GlROncAX4XI) beslenerek yapılmıştır.
 
