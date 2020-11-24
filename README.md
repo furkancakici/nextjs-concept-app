@@ -11,5 +11,5 @@ CANLI: [LINK](https://nextjs-concept-app.vercel.app/)
 - SVGR
 - AOS Js
 
-[Kaynak](https://www.youtube.com/watch?v=GlROncAX4XI) beslenerek yapılmıştır.
+Buradan [Kaynak](https://www.youtube.com/watch?v=GlROncAX4XI) beslenerek yapılmıştır.
 
