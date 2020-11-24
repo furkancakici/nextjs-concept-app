@@ -1,0 +1,15 @@
+{
+    "files.exclude": {
+        "styles": false,
+        ".babelrc": false,
+        "public": false,
+        "node_modules": false,
+        ".vscode": false,
+        ".next": false,
+        "yarn.lock": false,
+        "README.md": false,
+        "package.json": false,
+        ".gitignore": false
+    },
+    "workspace.isHidden": false
+}

@@ -1,15 +1,23 @@
 {
-  "name": "nextjs-concept-app",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next start"
-  },
-  "dependencies": {
-    "next": "10.0.1",
-    "react": "17.0.1",
-    "react-dom": "17.0.1"
-  }
+   "name": "nextjs-concept-app",
+   "version": "0.1.0",
+   "private": true,
+   "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "icon": "svgr ./public/images/icons -d ./src/assets/icons --icon --replace-attr-values \"#fff=currentColor\""
+   },
+   "dependencies": {
+      "aos": "^2.3.4",
+      "next": "10.0.1",
+      "react": "17.0.1",
+      "react-dom": "17.0.1",
+      "react-icons": "^3.11.0"
+   },
+   "devDependencies": {
+      "@svgr/cli": "^5.5.0",
+      "babel-plugin-styled-components": "^1.11.1",
+      "styled-components": "^5.2.1"
+   }
 }
