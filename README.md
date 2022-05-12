@@ -1,15 +1,14 @@
+### Concept-next-app 🚀
 
-## Concept bir Next Js çalışmasıdır.
+#### Concept bir Next.js çalışmasıdır. 
 
 CANLI: [LINK](https://nextjs-concept-app.vercel.app/)
 
-### Neler kullandım / öğrendim 
+#### Neler kullandım / öğrendim 
 
 - Next Js
 - React Icon
 - Styled Components
 - SVGR
 - AOS Js
-
-Buradan [Kaynak](https://www.youtube.com/watch?v=GlROncAX4XI) beslenerek yapılmıştır.
 
